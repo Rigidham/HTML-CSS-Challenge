@@ -4,12 +4,6 @@ You have 1 hour to re-create the following header derived from a fictional websi
   
 ![Please recreate this mockup](/images/mockup.png)
 
-NOTE TO INTERVIEWERS: 
-
-There is some additional behavior that could not be documented from an 
-image alone. Please demo the page before asking the interviewee to 
-recreate it.
-
 # Instructions
 
 To run this test locally, navigate to the project directory and execute: 
@@ -33,4 +27,3 @@ Was their HTML semantic and up to date? Was it formatted consistently? Did they 
 
 4. __Architecture:__ 
 Was the participant concerned with details that went above and beyond mere implementation? Was the CSS they wrote in any way modular or reusable? What was their approach to naming? Did they  attempt to establish any conventions? 
-
